@@ -1,0 +1,19 @@
+.head{
+    width: auto;
+    height: 100px;
+    background: #0bda51;
+
+}
+.link_head{
+    display: flex;
+    color: #ffff;
+    padding: 1.5% 50px 0;
+    font-size: 16px;
+    font-weight: 400;
+    justify-content: center;
+    justify-content: space-between;
+}
+.herfLink{
+    padding-top:0.7em ;
+}
+
